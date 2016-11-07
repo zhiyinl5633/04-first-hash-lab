@@ -54,9 +54,3 @@ hash["key2"] = "value2"
 puts hash
 # > {"key1" => "value1", "key2" => "value2"}
 ```
-
-
-
-
-
-<a href='https://learn.co/lessons/my-first-hash' data-visibility='hidden'>View this lesson on Learn.co</a>
